@@ -10,5 +10,9 @@
         <h1>Demo</h1>
         <p>Duoc tao boi member 1</p>
     </div>
+    <div class="member2">
+        <h2>Member 2</h2>
+        <p>Duoc tao boi member 2</p>
+    </div>
 </body>
 </html>
