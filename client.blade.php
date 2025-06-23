@@ -12,11 +12,16 @@
         <h1>Demo</h1>
         <p>Duoc tao boi member 1</p>
     </div>
+
     <div class="member1">
         <h2>Noi dung bai hoc</h2>
         <p>Officia beatae dolores integer recusandae, quisquam iusto mi recusandae? Risus, 
             risus praesent lacus, quibusdam, dolores netus, vitae blandit, tempore magnam illum 
-            sapiente arcu officia, qui itaque n</p>
+            sapiente arcu officia, qui itaque n
+        </p>
+    <div class="member2">
+        <h2>Member 2</h2>
+        <p>Duoc tao boi member 2</p>
     </div>
 </body>
 
